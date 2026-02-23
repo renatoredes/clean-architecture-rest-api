@@ -10,4 +10,7 @@ An example Spring Boot REST API built using Clean Architecture principles, focus
 <img width="1072" height="717" alt="image" src="https://github.com/user-attachments/assets/09b97fd7-bd97-4fc1-a792-9edc39eee49c" />
 
 
+### Clean Architecture – Module Diagram
+<img width="1381" height="707" alt="image" src="https://github.com/user-attachments/assets/a41bc9fd-c14e-4abd-bd49-38bc12a89fdc" />
+
 
